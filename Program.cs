@@ -1,12 +1,23 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace facebookBot
 {
-    partial class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var accessToken = "YOUR_GRAPH_API_ACCESS_TOKEN";
+            var facebookClient = new FacebookClient();
+            var facebookService = new FacebookService(facebookClient);
+            var getAccountTask = facebookService.GetAccountAsync(accessToken);
+
+            Task.WaitAll(getAccountTask);
+            var account = getAccountTask.Result;
+            Console.WriteLine($"{account.Id} {account.Name}");
+
+            var postOnWallTask = facebookService.PostOnWallAsync(accessToken, "Hello from C# .NET Core!");
+            Task.WaitAll(postOnWallTask);
         }
-    }
+    }  
 }
