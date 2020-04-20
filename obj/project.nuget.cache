@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uAqT8Lc+jnmKTPaXIQ5FpaSgG70/YjVCPfduwUOswyH+Yq0NixCn+jztjHJcjdHnBqsMtuUtuozLdH+NtADv3A==",
+  "dgSpecHash": "ePkm0XZPOOiG60Yl5yqdh/EWU5c9sKbPNQMZGs4dlhGxBtYKygW0xAnlUdJvYhddvKqP6yiIAOL+swf6avOYoA==",
   "success": true,
   "projectFilePath": "/home/filip/code/net/facebookBot/facebookBot.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/filip/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
