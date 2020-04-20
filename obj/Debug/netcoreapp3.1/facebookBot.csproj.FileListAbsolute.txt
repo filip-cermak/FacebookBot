@@ -1,0 +1,13 @@
+/home/filip/code/net/facebookBot/bin/Debug/netcoreapp3.1/facebookBot
+/home/filip/code/net/facebookBot/bin/Debug/netcoreapp3.1/facebookBot.deps.json
+/home/filip/code/net/facebookBot/bin/Debug/netcoreapp3.1/facebookBot.runtimeconfig.json
+/home/filip/code/net/facebookBot/bin/Debug/netcoreapp3.1/facebookBot.runtimeconfig.dev.json
+/home/filip/code/net/facebookBot/bin/Debug/netcoreapp3.1/facebookBot.dll
+/home/filip/code/net/facebookBot/bin/Debug/netcoreapp3.1/facebookBot.pdb
+/home/filip/code/net/facebookBot/obj/Debug/netcoreapp3.1/facebookBot.csprojAssemblyReference.cache
+/home/filip/code/net/facebookBot/obj/Debug/netcoreapp3.1/facebookBot.csproj.CoreCompileInputs.cache
+/home/filip/code/net/facebookBot/obj/Debug/netcoreapp3.1/facebookBot.AssemblyInfoInputs.cache
+/home/filip/code/net/facebookBot/obj/Debug/netcoreapp3.1/facebookBot.AssemblyInfo.cs
+/home/filip/code/net/facebookBot/obj/Debug/netcoreapp3.1/facebookBot.dll
+/home/filip/code/net/facebookBot/obj/Debug/netcoreapp3.1/facebookBot.pdb
+/home/filip/code/net/facebookBot/obj/Debug/netcoreapp3.1/facebookBot.genruntimeconfig.cache
